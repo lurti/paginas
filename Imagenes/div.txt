@@ -1,0 +1,81 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Documento sin título</title>
+	
+	<style>
+	
+		.conten{
+			display: flex;
+			align-items: center;
+	
+			
+					
+		}
+	
+		.parrafo{
+		padding-left: 30px
+			
+		}
+		
+		.conte2{
+			display: flex;
+			
+			
+
+			
+			
+			
+		}
+		.tex2{
+			padding-left: 20px;
+		margin-right: 20px
+			
+		
+			
+		}
+	</style>
+	
+	
+</head>
+
+<body>
+	
+	
+	<div class="conten">
+	
+	<img src="2777450_15443.jpg" width="300" height="220">
+	
+		<div class="parrafo">
+		  <p>&nbsp;</p>
+		  <p><br>
+	      </p>
+		  <p>  g jhgjg 
+		    kh kbbb hb hjbjhb jhjghjghjghjgj jhg hg  gjhg jhg jhg jg scds sfs s ssfds ds</p>
+        </div>
+		
+	
+	
+	
+	</div>
+	<br><br><br><br>
+	
+	
+	<div class="conte2">
+		
+			<div class="tex2">
+		
+		<p>  este es un texto al costado de la imagen kuhhkhkhkhkh hkjhkhkhk kjhkjh hkjh khkjh h jhgjhghjjh jhgjh g jhgjg kh kbbb hb hjbjhb b j j beste es un texto al costado de la imagen kuhhkhkhkhkh hkjhkhkhk kjhkjh hkjh khkjh h jhgjhghjjh jhgjh g jhgjg kh kbbb hb hjbjhb b j j beste es un texto al costado de la imagen kuhhkhkhkhkh hkjhkhkhk kjhkjh hkjh khkjh h jhgjhghjjh jhgjh g jhgjg khcostado de la imagen kuhhkhkhkhkh hkjhkhkhk kjhkjh hkjh khkjh h jhgjhghjjh jhgjh g jhgjg kh kbbb hb hjbjhb b j j beste es un texto al costado de la imagen kuhhkhkhkhkh hkjhkhkhk kjhkjh hkjh khkjh h jhgjhghjjh jhgjh g jhgjg kh kbbb hb hjbjhb b j j b  </p>
+		
+			</div>
+	<img src="../Documents/Sitio sin nombre 3/wallpaperbetter (7).jpg" width="300" height="240">
+	
+		
+	
+	
+	
+	</div>
+	
+</body>
+</html>
